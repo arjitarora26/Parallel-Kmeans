@@ -1,1 +1,1 @@
-# kmeans
+# Parallel K-means clustering
